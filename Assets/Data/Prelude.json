@@ -1,0 +1,1170 @@
+{
+	"events": [
+		{
+			"position": 0,
+			"dialogue": "Hey. I'm gonna be your lawyer. My name is Jace, It's glad to meet you-",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 1,
+			"isEnd": false
+		},
+		{
+			"position": 1,
+			"dialogue": "Good evening sir. Thank you for taking my case.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 2,
+			"isEnd": false
+		},
+		{
+			"position": 2,
+			"dialogue": "I'm sorry. Are you a child?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 3,
+			"isEnd": false
+		},
+		{
+			"position": 3,
+			"dialogue": "Precisely.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 4,
+			"isEnd": false
+		},
+		{
+			"position": 4,
+			"dialogue": "Alright. I'm sorry this is my first day on the job.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 5,
+			"isEnd": false
+		},
+		{
+			"position": 5,
+			"dialogue": "Yeah, you'd better be sorry.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 6,
+			"isEnd": false
+		},
+		{
+			"position": 6,
+			"dialogue": "Excuse me?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 7,
+			"isEnd": false
+		},
+		{
+			"position": 7,
+			"dialogue": "Hm? I didn't say anything.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 8,
+			"isEnd": false
+		},
+		{
+			"position": 8,
+			"dialogue": "Anyways. back to business. Who exactly is the person suing you?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 9,
+			"isEnd": false
+		},
+		{
+			"position": 9,
+			"dialogue": "My mother.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 10,
+			"isEnd": false
+		},
+		{
+			"position": 10,
+			"dialogue": "That's rough, bud. What did you do?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewSuperScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 11,
+			"isEnd": false
+		},
+		{
+			"position": 11,
+			"dialogue": "I am being accused of a crime I DID NOT COMMIT! My stupid mother could never swallow her pride.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 12,
+			"isEnd": false
+		},
+		{
+			"position": 12,
+			"dialogue": "She's taking me to court on account of all the cookies in the cookie jar going missing.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				},
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 13,
+			"isEnd": false
+		},
+		{
+			"position": 13,
+			"dialogue": "Oh my. Missing cookies. this is serious. Were they raisin flavored cookies?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				},
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 14,
+			"isEnd": false
+		},
+		{
+			"position": 14,
+			"dialogue": "Chocolate chip.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 15,
+			"isEnd": false
+		},
+		{
+			"position": 15,
+			"dialogue": "Oh no. This is worse than I thought.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewSuperScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 16,
+			"isEnd": false
+		},
+		{
+			"position": 16,
+			"dialogue": "This means that if your found guilty,",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 17,
+			"isEnd": false
+		},
+		{
+			"position": 17,
+			"dialogue": "Correct. I will be sentenced to death immediately.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 18,
+			"isEnd": false
+		},
+		{
+			"position": 18,
+			"dialogue": "So my life is literally in your hands.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 19,
+			"isEnd": false
+		},
+		{
+			"position": 19,
+			"dialogue": "And since this is your first ever trial, I'm starting to worry a little.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 20,
+			"isEnd": false
+		},
+		{
+			"position": 20,
+			"dialogue": "Don't worry, you'll be fine. Just tell me everything you know.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 21,
+			"isEnd": false
+		},
+		{
+			"position": 21,
+			"dialogue": "Well, it was a rainy day on October 15th, just 2 weeks after my father left our family.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 22,
+			"isEnd": false
+		},
+		{
+			"position": 22,
+			"dialogue": "Your father left you guys?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 23,
+			"isEnd": false
+		},
+		{
+			"position": 23,
+			"dialogue": "I SWEAR IF YOU INTERRUPT ME ONE MORE TIME I WILL SHOOT YOU DOWN.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 24,
+			"isEnd": false
+		},
+		{
+			"position": 24,
+			"dialogue": "....proceed.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewSuperScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 25,
+			"isEnd": false
+		},
+		{
+			"position": 25,
+			"dialogue": "So, it was two weeks after my dad ran away.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 26,
+			"isEnd": false
+		},
+		{
+			"position": 26,
+			"dialogue": "Right before bedtime, I was playing with my Poop Blasterz action figure in my room.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				},
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 27,
+			"isEnd": false
+		},
+		{
+			"position": 27,
+			"dialogue": "Then, I heard a shriek.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 28,
+			"isEnd": false
+		},
+		{
+			"position": 28,
+			"dialogue": "I ran downstairs to find my mom crying and sobbing on the ground.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 29,
+			"isEnd": false
+		},
+		{
+			"position": 29,
+			"dialogue": "With an empty jar of cookies in her right hand.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 30,
+			"isEnd": false
+		},
+		{
+			"position": 30,
+			"dialogue": "She looked at me and said: 'D-Darn you!! You good for nothing pisschild! You Accident!'",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 31,
+			"isEnd": false
+		},
+		{
+			"position": 31,
+			"dialogue": "You're the reason father left us! And now you've eaten all the cookies! I'll kill you! I swear I will!",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				},
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 32,
+			"isEnd": false
+		},
+		{
+			"position": 32,
+			"dialogue": "She then called the cops and I was taken into custody.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 33,
+			"isEnd": false
+		},
+		{
+			"position": 33,
+			"dialogue": "Nobody was there to pay my bail so I spent a month in jail.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 34,
+			"isEnd": false
+		},
+		{
+			"position": 34,
+			"dialogue": "I had time to ponder about the situation, and then realization hit me.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmySad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 35,
+			"isEnd": false
+		},
+		{
+			"position": 35,
+			"dialogue": "It was my mother who stole the cookies! She just blamed me!",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewAnnoyed",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				},
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 36,
+			"isEnd": false
+		},
+		{
+			"position": 36,
+			"dialogue": "GASP!",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 37,
+			"isEnd": false
+		},
+		{
+			"position": 37,
+			"dialogue": "Do you have evidence for this claim?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 38,
+			"isEnd": false
+		},
+		{
+			"position": 38,
+			"dialogue": "...Kinda. I do know that she's been gaining a lot of weight lately.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 39,
+			"isEnd": false
+		},
+		{
+			"position": 39,
+			"dialogue": "So her bad eating habits could be the reason she ate all those cookies.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 40,
+			"isEnd": false
+		},
+		{
+			"position": 40,
+			"dialogue": "Why has she been gaining a lot of weight recently?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 41,
+			"isEnd": false
+		},
+		{
+			"position": 41,
+			"dialogue": "I don't know.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 42,
+			"isEnd": false
+		},
+		{
+			"position": 42,
+			"dialogue": "Hmmm... Tell me about your mother.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 43,
+			"isEnd": false
+		},
+		{
+			"position": 43,
+			"dialogue": "I'm 12 months old! I know nothing about my mom except what her breast milk tastes like!",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 44,
+			"isEnd": false
+		},
+		{
+			"position": 44,
+			"dialogue": "What does it taste like?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewAnnoyed",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 45,
+			"isEnd": false
+		},
+		{
+			"position": 45,
+			"dialogue": "Warm, and sour. I have a bottle with me right now if you wanna give it a taste.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyMad",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 46,
+			"isEnd": false
+		},
+		{
+			"position": 46,
+			"dialogue": "...I'll pass.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewScared",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 47,
+			"isEnd": false
+		},
+		{
+			"position": 47,
+			"dialogue": "Your missing out, bud. It's quite the beverage.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyNormal",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 48,
+			"isEnd": false
+		},
+		{
+			"position": 48,
+			"dialogue": "Anyways, do you know anything at all about your mother?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_Interview_1",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 49,
+			"isEnd": false
+		},
+		{
+			"position": 49,
+			"dialogue": "Well, actually, I do know a few things.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 50,
+			"isEnd": false
+		},
+		{
+			"position": 50,
+			"dialogue": "She owns a red car, She cries a lot since my dad left, oh yeah, and she HATES Fried Chicken.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 51,
+			"isEnd": false
+		},
+		{
+			"position": 51,
+			"dialogue": "Is that all?",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewAnnoyed",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 52,
+			"isEnd": false
+		},
+		{
+			"position": 52,
+			"dialogue": "Yes, indeed.",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyAnnoyed",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 53,
+			"isEnd": false
+		},
+		{
+			"position": 53,
+			"dialogue": "Alright. Thanks for telling me this. See you in court tomorrow.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewHappy",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 54,
+			"isEnd": false
+		},
+		{
+			"position": 54,
+			"dialogue": "When we win, we'll celebrate with a few glasses of mothers sour milk!",
+			"speaker": "Timmy",
+			"images": [
+				{
+					"imgSource": "timmy",
+					"description": "InterviewTimmyShout",
+					"pos": {
+						"x": 653,
+						"y": -215
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 55,
+			"isEnd": false
+		},
+		{
+			"position": 55,
+			"dialogue": "...I'll pass on that one.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "Jace_InterviewAnnoyed",
+					"pos": {
+						"x": -596.63,
+						"y": -141.46
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 0,
+			"isEnd": true
+		}
+	]
+}

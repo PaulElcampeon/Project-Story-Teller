@@ -1,0 +1,46 @@
+{
+	"events":
+	[
+		{
+			"position": 0,
+			"image": "aa",
+			"dialogue": "Spencer is the coolest man alive",
+			"speaker": "Spencer",
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 1
+		},
+		{
+			"position": 1,
+			"image": "aa",
+			"dialogue": "Kinda rich coming from you wouldn't you say?",
+			"speaker": "Trash City",
+			"isInteractable": true,
+			"options": 
+				[
+					{
+						"buttonOption": "a",
+						"newPosition": 2
+					},
+					{
+						"buttonOption": "b",
+						"newPosition": 1
+					},
+					{
+						"buttonOption": "c",
+						"newPosition": 0
+					}
+				],
+			"nextDialoguePos": 2
+		},
+		{
+			"position": 2,
+			"image": "aa",
+			"dialogue": "Hahaha",
+			"speaker": "Spencer",
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 0
+		}
+	]
+}

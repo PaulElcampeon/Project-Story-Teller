@@ -1,0 +1,46 @@
+{
+	"events":
+	[
+		{
+			"position": 0,
+			"image": "smug",
+			"dialogue": "Spencer may be the coolest man ever created.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "smug",
+					"pos": {
+
+						"x": -409.6,
+						"y": 69.29
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 1
+		},
+		{
+			"position": 1,
+			"dialogue": "Theres no denying it.",
+			"speaker": "Jace",
+			"images": [
+				{
+					"imgSource": "jace",
+					"description": "extra_smug",
+					"pos": {
+
+						"x": -409.6,
+						"y": 69.29
+					},
+					"rotation": 0
+				}
+			],
+			"isInteractable": false,
+			"options": [],
+			"nextDialoguePos": 0
+		}
+	]
+}
